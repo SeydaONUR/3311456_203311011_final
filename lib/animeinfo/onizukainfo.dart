@@ -1,10 +1,8 @@
 import 'package:son/likebutton.dart';
-import 'package:son/t%C3%BCrler/komedi.dart';
-import 'package:son/t%C3%BCrler/okul.dart';
+import 'package:son/turler/komedi.dart';
+import 'package:son/turler/okul.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
-import 'package:son/t%C3%BCrler/komedi.dart';
-import 'package:son/t%C3%BCrler/okul.dart';
 import 'package:flutter/material.dart';
 import 'package:son/animeler.dart';
 import 'package:flutter/rendering.dart';

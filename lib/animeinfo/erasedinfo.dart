@@ -1,11 +1,11 @@
-import 'package:son/t%C3%BCrler/do%C4%9Fa%C3%BCst%C3%BC.dart';
-import 'package:son/t%C3%BCrler/gizem.dart';
-import 'package:son/t%C3%BCrler/psikoloji.dart';
+import 'package:son/turler/dogaustu.dart';
+import 'package:son/turler/gizem.dart';
+import 'package:son/turler/psikoloji.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
-import 'package:son/t%C3%BCrler/do%C4%9Fa%C3%BCst%C3%BC.dart';
-import 'package:son/t%C3%BCrler/gizem.dart';
-import 'package:son/t%C3%BCrler/psikoloji.dart';
+import 'package:son/turler/dogaustu.dart';
+import 'package:son/turler/gizem.dart';
+import 'package:son/turler/psikoloji.dart';
 import 'package:flutter/material.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';

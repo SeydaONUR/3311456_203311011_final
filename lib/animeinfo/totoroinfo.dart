@@ -1,14 +1,11 @@
 import 'package:son/likebutton.dart';
 import 'package:son/studioghibli.dart';
-import 'package:son/t%C3%BCrler/do%C4%9Fa%C3%BCst%C3%BC.dart';
-import 'package:son/t%C3%BCrler/macera.dart';
-import 'package:son/y%C3%B6netmenler/miyazaki.dart';
+import 'package:son/turler/dogaustu.dart';
+import 'package:son/turler/macera.dart';
+import 'package:son/yonetmenler/miyazaki.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
 import 'package:son/studioghibli.dart';
-import 'package:son/t%C3%BCrler/do%C4%9Fa%C3%BCst%C3%BC.dart';
-import 'package:son/t%C3%BCrler/macera.dart';
-import 'package:son/y%C3%B6netmenler/miyazaki.dart';
 import 'package:flutter/material.dart';
 import 'package:son/animeler.dart';
 

@@ -1,13 +1,13 @@
-import 'package:son/t%C3%BCrler/b%C3%BCy%C3%BC.dart';
-import 'package:son/t%C3%BCrler/drama.dart';
+import 'package:son/turler/buyu.dart';
+import 'package:son/turler/drama.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
-import 'package:son/t%C3%BCrler/b%C3%BCy%C3%BC.dart';
-import 'package:son/t%C3%BCrler/drama.dart';
+import 'package:son/turler/buyu.dart';
+import 'package:son/turler/drama.dart';
 import 'package:flutter/material.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
-
+import 'package:son/turler/buyu.dart';
 import '../model_service/model_service.dart';
 
 class fullmetalinfo extends StatefulWidget {

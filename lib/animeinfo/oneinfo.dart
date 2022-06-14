@@ -1,16 +1,14 @@
-import 'package:son/t%C3%BCrler/fantastik.dart';
-import 'package:son/t%C3%BCrler/komedi.dart';
-import 'package:son/t%C3%BCrler/macera.dart';
+import 'package:son/turler/fantastik.dart';
+import 'package:son/turler/komedi.dart';
+import 'package:son/turler/macera.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
-import 'package:son/t%C3%BCrler/fantastik.dart';
-import 'package:son/t%C3%BCrler/macera.dart';
 import 'package:flutter/material.dart';
 import 'package:son/animeler.dart';
 import 'package:son/likebutton.dart';
 
 import '../model_service/model_service.dart';
-import '../türler/doğaüstü.dart';
+import '../turler/dogaustu.dart';
 class oneinfo extends StatefulWidget {
   const oneinfo({Key? key}) : super(key: key);
 
